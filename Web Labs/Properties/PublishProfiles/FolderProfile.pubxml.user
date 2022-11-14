@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Study\Web\Web Labs\Web Labs\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2022-11-13T21:46:53.4824742Z;True|2022-11-13T23:45:56.3950215+02:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=%28localdb%29\MSSQLLocalDB%3bDatabase=Lab6%3bMultipleActiveResultSets=true</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="Web_Labs.Models.AppDbContext">
+      <Value>Server=%28localdb%29\MSSQLLocalDB%3bDatabase=Lab6%3bMultipleActiveResultSets=true</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
