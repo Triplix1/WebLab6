@@ -2,6 +2,8 @@ D:\WebLab6\Web Labs\obj\Release\netcoreapp3.1\PubTmp\Out\Web Labs.exe
 D:\WebLab6\Web Labs\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\css\AccordionStyle.css
 D:\WebLab6\Web Labs\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\css\site.css
 D:\WebLab6\Web Labs\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\favicon.ico
+D:\WebLab6\Web Labs\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\imagine\FICT.jpg
+D:\WebLab6\Web Labs\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\imagine\KPI.jpg
 D:\WebLab6\Web Labs\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\js\site.js
 D:\WebLab6\Web Labs\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 D:\WebLab6\Web Labs\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
