@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0XDGLs+bKnZfZ1qyyUlwkJHwEGj5dX8uiDEuVNNhfQhzNRyK/qpY1esH67n3bDjYnzZvb74Re7nI5yTf4DrpKQ==",
+  "dgSpecHash": "uHMDWBza5704Mi0thTXFvxYqR/hsG5QC9PafkYTvk51mWy+SIqB3GUlh50rf6aXWF4Xt76Mf77P/p5pMw2Q+0g==",
   "success": true,
-  "projectFilePath": "D:\\Study\\Web\\Web Labs\\Web Labs\\Web Labs.csproj",
+  "projectFilePath": "D:\\WebLab6\\Web Labs\\Web Labs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vladislav\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Vladislav\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

@@ -27,7 +27,7 @@ namespace Web_Labs
         {
             services.AddControllersWithViews();
             services.AddTransient<IDataModels, EFModelsRepository>();
-            string conString = Configuration["ConnectionStrings:DefaultConnection"];
+            string conString = Configuration.GetConnectionString("AZURE_SQL_CONNECTIONSTRING");
             services.AddDbContext<AppDbContext>(options =>
             options.UseSqlServer(conString));
         }

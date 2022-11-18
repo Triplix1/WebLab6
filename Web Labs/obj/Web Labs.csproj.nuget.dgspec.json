@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Study\\Web\\Web Labs\\Web Labs\\Web Labs.csproj": {}
+    "D:\\WebLab6\\Web Labs\\Web Labs.csproj": {}
   },
   "projects": {
-    "D:\\Study\\Web\\Web Labs\\Web Labs\\Web Labs.csproj": {
+    "D:\\WebLab6\\Web Labs\\Web Labs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Study\\Web\\Web Labs\\Web Labs\\Web Labs.csproj",
+        "projectUniqueName": "D:\\WebLab6\\Web Labs\\Web Labs.csproj",
         "projectName": "Web Labs",
-        "projectPath": "D:\\Study\\Web\\Web Labs\\Web Labs\\Web Labs.csproj",
+        "projectPath": "D:\\WebLab6\\Web Labs\\Web Labs.csproj",
         "packagesPath": "C:\\Users\\Vladislav\\.nuget\\packages\\",
-        "outputPath": "D:\\Study\\Web\\Web Labs\\Web Labs\\obj\\",
+        "outputPath": "D:\\WebLab6\\Web Labs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
